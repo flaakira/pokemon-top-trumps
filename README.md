@@ -2,6 +2,8 @@
 
 A single file browser game: a six versus six knockout card battle played with the 151 original Pokemon. The markup, the styles, the Pokemon data and all of the game logic live in `index.html`, so there is nothing to install and nothing to build. Open the file in any modern browser and press New game.
 
+[Play the game](https://flaakira.github.io/pokemon-top-trumps/)
+
 ## How to play
 
 Every new game shuffles the full list of 151 Pokemon and deals six cards to you and six to the CPU. Your six are shown as sprites on the left of the screen. The enemy six are shown as poke balls, because the enemy team stays secret.
